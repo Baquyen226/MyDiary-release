@@ -16,7 +16,6 @@
 - Disable refresh location for old entries.
 - Properly implement bookmarks and pins.
 - Tracks moods and tasks.
-<img width="20%" alt="image" src="https://github.com/user-attachments/assets/6ceeba1b-beaf-4821-bc31-32eca90479bb" />
 <img width="20%" alt="image" src="https://github.com/user-attachments/assets/c8d4296b-164e-4530-8d45-f0b947f6ce42" />
 <img width="20%" alt="image" src="https://github.com/user-attachments/assets/ef45b632-b525-43cd-ab66-59494a3ce1b0" />
 <img width="20%" alt="image" src="https://github.com/user-attachments/assets/782c3567-262f-432f-975f-716108b614f1" />
