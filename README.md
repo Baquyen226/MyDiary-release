@@ -8,7 +8,8 @@
 ## Features to implement:
 - Text editor is super hard to navigate.
 - Password and encryption.
-- Also able to attach links, audio files.
+- ~~Attach links.~~
+- Attach audios
 - Quick share contacts.
 - ~~Search.~~
 - ~~Tags.~~
