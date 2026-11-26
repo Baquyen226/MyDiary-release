@@ -10,8 +10,8 @@
 - Password and encryption.
 - Also able to attach links, audio files.
 - Quick share contacts.
-- Search.
-- Tags.
+- ~~Search.~~
+- ~~Tags.~~
 - Seed db should provide tutorial.
 - Disable refresh location for old entries.
 - Properly implement bookmarks and pins.
