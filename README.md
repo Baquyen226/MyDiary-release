@@ -9,12 +9,11 @@
 - Text editor is super hard to navigate.
 - Password and encryption.
 - ~~Attach links.~~
-- Attach audios
+- ~~Attach audios.~~
 - Quick share contacts.
 - ~~Search.~~
 - ~~Tags.~~
 - Seed db should provide tutorial.
-- Disable refresh location for old entries.
 - Properly implement bookmarks and pins.
 - Tracks moods and tasks.
 - Import/Exports.
