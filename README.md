@@ -1,9 +1,9 @@
 # MyDiary-release
+Inspired by [Calvin-Huang/MyDiary](https://github.com/Calvin-Huang/MyDiary). Android implementation.
 ## Tech Stack
 - UI: Jetpack Compose (Material 3)
-- Database: Room (SQLite) with reactive Kotlin Coroutines & Flow
+- Database: Room (SQLite) 
 - Rich Text Editor: [Compose RichEditor](https://github.com/MohamedRejeb/compose-rich-editor)
-- Language Support: English, Japanese, Simplified Chinese 
 
 ## Features to implement:
 - Text editor is super hard to navigate.
